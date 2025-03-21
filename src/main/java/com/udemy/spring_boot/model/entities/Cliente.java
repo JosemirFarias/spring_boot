@@ -1,4 +1,4 @@
-package com.udemy.spring_boot.models;
+package com.udemy.spring_boot.model.entities;
 
 public class Cliente {
 
